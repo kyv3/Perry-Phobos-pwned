@@ -26,7 +26,6 @@ class Phobos {
     public static final String CHAT_SUFFIX = " \u23d0 3\u1d00\u0280\u1d1b\u029c\u029c4\u1d04\u1d0b";
     public static final String PHOBOS_SUFFIX = " \u23d0 \u1d18\u029c\u1d0f\u0299\u1d0f\ua731";
     public static final Logger LOGGER = LogManager.getLogger ( "3arthh4ck" );
-    public static CapeManager capeManager;
     public static ModuleManager moduleManager;
     public static SpeedManager speedManager;
     public static PositionManager positionManager;
@@ -68,7 +67,6 @@ class Phobos {
             reloadManager.unload ( );
             reloadManager = null;
         }
-        capeManager = new CapeManager ( );
         baritoneManager = new NoStopManager ( );
         totemPopManager = new TotemPopManager ( );
         timerManager = new TimerManager ( );
@@ -119,7 +117,6 @@ class Phobos {
             baritoneManager.stop ( );
         }
         Phobos.onUnload ( );
-        capeManager = null;
         eventManager = null;
         holeManager = null;
         timerManager = null;
