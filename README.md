@@ -18,3 +18,6 @@ So perry removed my repo access like 2 months ago but bush had a fork of the mai
 
 ![](https://cdn.upload.systems/uploads/rtxYLXjA.png)
 
+# Best skid
+poopiest skid also join [nekomod](https://discord.gg/76MrJ9dKMc) (best skid)
+
