@@ -16,7 +16,5 @@ i will fight all dmcas not coming from phobos developers.
 # Story (kambing)
 So perry removed my repo access like 2 months ago but bush had a fork of the main repo and it was visible for me.. lol (more funny shit coming soon)
 
-- pls dont dmca the original repo doesnt have a license 
-
 ![](https://cdn.upload.systems/uploads/rtxYLXjA.png)
 
