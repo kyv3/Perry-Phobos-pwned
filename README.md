@@ -1,6 +1,6 @@
 # Perry phobos src (latest)
 reason i posted this : steal my discord more! 
-+ credits for kambing for giving me the src. 
++ full credit to kambing because he sent it
 + also credits for rte for being cool
 
 # Building
@@ -17,4 +17,6 @@ i will fight all dmcas not coming from phobos developers.
 So perry removed my repo access like 2 months ago but bush had a fork of the main repo and it was visible for me.. lol (more funny shit coming soon)
 
 - pls dont dmca the original repo doesnt have a license 
+
+![](https://cdn.upload.systems/uploads/rtxYLXjA.png)
 
