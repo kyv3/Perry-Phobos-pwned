@@ -1,6 +1,6 @@
 # Perry phobos src (latest)
 reason i posted this : steal my discord more! 
-+ full credit to kambing because he sent it
++ full credit to [kambing](https://github.com/ProfKambing) because he sent it
 + also credits for rte for being cool
 
 # Building
