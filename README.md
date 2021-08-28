@@ -14,7 +14,9 @@ i will fight all dmcas not coming from phobos developers.
 
 
 # Story (kambing)
-So perry removed my repo access like 2 months ago but bush had a fork of the main repo and it was visible for me.. lol (more funny shit coming soon)
+So perry removed my repo access like 2 months ago but bush had a fork of the main repo and it was visible for me.. lol
+- best things in the client are made by bush
+- perry cant code 1 original thing also nice trinity quiver
 
 ![](https://cdn.upload.systems/uploads/rtxYLXjA.png)
 
